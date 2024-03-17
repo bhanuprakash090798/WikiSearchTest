@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3259a93-20c7-405b-accc-2321bcddb98e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClickCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClickCounterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WikiSearchTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,7 +18,20 @@
     <favorites_list name="firsttest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ClickCounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,20 +101,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="firsttest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firsttest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1710310053923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1710685850532" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,16 +171,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5019685" side_tool="true" weight="0.25416666" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4980315" visible="true" weight="0.22753036" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4980315" visible="true" weight="0.23562753" />
       <window_info id="Structure" order="6" sideWeight="0.5019685" side_tool="true" weight="0.25416666" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -202,48 +224,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FlipkartTitleTest.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/99f5a1bc-772e-465f-97ee-78e124ca4655_WikiSearchTest.zip.655/src/test/java/WikiSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="41" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/2dd48aa2-1712-4802-9330-fbbea271c251_ClickCounterTest.zip.251/src/test/java/ClickCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WikiSearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="14" column="117" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ClickCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/99f5a1bc-772e-465f-97ee-78e124ca4655_WikiSearchTest.zip.655/src/test/java/WikiSearchTest.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/2dd48aa2-1712-4802-9330-fbbea271c251_ClickCounterTest.zip.251/src/test/java/ClickCounterTest.java" />
     <entry file="file://$PROJECT_DIR$/firsttest.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/WikiSearchTest.java" />
+    <entry file="file://$USER_HOME$/Downloads/ClickCounterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/WikiSearchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClickCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
